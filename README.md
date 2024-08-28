@@ -9,6 +9,7 @@ HomePage:
 ![homepage](https://github.com/user-attachments/assets/0392e497-851d-41d3-9da7-38ae673f2824)
 
 GUI
+
 ![gui](https://github.com/user-attachments/assets/1217bd40-75ff-4c4c-83cd-7164f9b9820d)
 
 Encrypted Login Information
